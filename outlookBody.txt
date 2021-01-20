@@ -1,0 +1,13 @@
+Dear {} {},
+
+We wish to inform you that the Confirmation Appraisal Form needs to be submitted through the System before the end of your probationary period (due on {}). 
+The form can be found under the Confirmation Appraisal task in "Insert Set of Instructions".
+
+Kindly note that it is advised to submit the form early as this process takes time to complete.
+
+Thank you.
+
+Regards,
+Zulhusni
+
+
